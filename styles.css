@@ -1,6 +1,9 @@
 .calculator {
   width: 300px;
   margin: 0 auto;
+  border: 2px black solid;
+  padding:20px;
+  
   text-align: center;
 }
 
